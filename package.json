@@ -1,6 +1,6 @@
 {
   "name": "pablo-conte-portfolio",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "pablo's portfolio frontent",
   "main": "index.ts",
   "scripts": {
